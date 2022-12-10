@@ -5,7 +5,6 @@ export const InputContainer = styled.div`
     width: 100%;
     height: 42px;
     color: #FFF;
-
     border: 1px solid #81259D;
     border-radius: 21px;
     overflow: hidden;
@@ -19,7 +18,6 @@ export const InputContainer = styled.div`
         border: 0;
         outline: none;
     }
-
 `
 
 export const ErrorMessage = styled.p`
